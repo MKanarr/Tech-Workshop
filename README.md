@@ -1,5 +1,5 @@
 # Tech-Workshop
-For TAMU SHPE Wed Development Workshop
+For TAMU SHPE Web Development Workshop
 
 Text Editor:
 https://www.sublimetext.com/3
