@@ -9,3 +9,6 @@ https://code.visualstudio.com/download
 
 Slides:
 https://docs.google.com/presentation/d/1_sqX7cgdiRVi8d9nOjGM89lnh4I9z8o1lvWwhU7RgA4/edit?usp=sharing
+
+Live Site: 
+https://mkanarr.github.io/Tech-Workshop/
